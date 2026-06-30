@@ -6,9 +6,9 @@ A Power BI dashboard analyzing financial performance by comparing actual expense
 
 ## 📋 Table of Contents
 
-- [Project Overview](#project-overview)
+* [Project Overview](#project-overview)
 - [Skills Demonstrated](#skills-demonstrated)
-- [Tools & Technologies](#tools--technologies)
+* [Tools & Technologies](#tools--technologies)
 - [Dataset Overview](#dataset-overview)
 - [Dashboard Features](#dashboard-features)
 - [Key Insights](#key-insights)
