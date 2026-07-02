@@ -123,7 +123,7 @@ Based on the dashboard analysis:
 ---
 
 ## 🚀 How to Explore
-
+   
 ### Opening the Dashboard:
 1. Download the `.pbix` file from this repo
 2. Open with **Power BI Desktop** (free download from Microsoft)
