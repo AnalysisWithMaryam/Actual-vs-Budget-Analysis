@@ -5,7 +5,7 @@
 A Power BI dashboard analyzing financial performance by comparing actual expenses and income against budgeted amounts across multiple product categories and time periods.
 
 ## 📋 Table of Contents
-_ Project Overview](#project-overview)
+_ [Project Overview](#project-overview)
 * [Skills Demonstrated](#skills-demonstrated)
 * [Tools & Technologies](#tools--technologies)
 * [Dataset Overview](#dataset-overview)
